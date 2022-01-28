@@ -1,5 +1,4 @@
-# AirBnB Clone ― The ALX-Holberton BnB
-![Optional Text](hbnb.png)
+# AirBnB Clone
 ## Description of the project
 The ALX-Holberton B&B sums up the implementation of our four months of studies at the ALX-Holberton School - the fullstack software engineering program.
 The goal of the project is to deploy a replica of the [Airbnb Website](https://www.airbnb.com/) using my server. The final version of this project will have:
@@ -69,8 +68,8 @@ $ ./console.py
 Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
-(hbnb) 
-(hbnb) 
+(hbnb)
+(hbnb)
 (hbnb) quit
 $
 But also in non-interactive mode: (like the Shell project in C)
@@ -81,7 +80,7 @@ $ echo "help" | ./console.py
 Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
-(hbnb) 
+(hbnb)
 $
 $ cat test_help
 help
